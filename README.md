@@ -38,7 +38,7 @@ The aim of the project was to enhance the Artemis scanner by developing new modu
   - [x] Improved non-x86 Artemis compatibility (PR [#1021](https://github.com/CERT-Polska/Artemis/pull/1021))
 
 ## Future Work
-fix the tests domain validation function, also to update the Karton repo to serve the UI/UX much more coherently, will continue to debug Artemis to make it much more compatible for non x86 machines. Working over `Artemis` over the summer was amazing, and I will keep contributing to the project.
+I will address the domain validation function in our tests, update the Karton repository to enhance UI/UX coherence, and continue debugging Artemis for improved compatibility with non-x86 machines. My summer work on Artemis was highly productive, and I remain committed to contributing to the project.
 
 ## Acknowledgements
 I want like to express my gratitude to Google, the honeynet organization and my mentor for giving me the opportunity to work on this project. Krzysztof helped me throughout the coding period, and solved any doubts that I had. he was very supportive and understanding till the end, I really appreciate him for the same and look forward to potential future collaborations.
