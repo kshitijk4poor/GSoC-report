@@ -46,7 +46,7 @@ During the Google Summer of Code, I made several significant contributions that 
 
 ### Contributions beyond the proposal
 
-In addition to my proposed contributions, I identify and address several other areas for improvement, demonstrating my proactive approach and commitment to the project:
+In addition to my proposed contributions, I identified and addressed several other areas for improvement, demonstrating my proactive approach and commitment to the project:
 
 - [X] Startup Process Optimization: Identified slow startup times as a pain point for users. Streamlined the startup process, reducing initialization times and improving operational efficiency, leading to a faster, more reliable user experience (PR [#1195](https://github.com/CERT-Polska/Artemis/pull/1195)).
 - [X] Routine Dependency Upgrades: Identified that Artemis lacked up-to-date dependencies, which posed potential security and performance risks. To address this, I created a CI/CD pipeline that automates the regular upgrading of dependencies. This initiative ensures that Artemis consistently remains secure, robust, and aligned with the latest industry standards (PR [#1122](https://github.com/CERT-Polska/Artemis/pull/1122)).
@@ -58,4 +58,4 @@ I will address the domain validation function in our tests, update the Karton re
 
 ## Acknowledgements
 
-I want like to express my gratitude to Google, the honeynet organization and and my mentor, Krzysztof Zając, for the invaluable opportunity to contribute to the Artemis project. Krzysztof helped me throughout the coding period, and solved any doubts that I had. he was very supportive and understanding till the end, I really appreciate him for the same and look forward to potential future collaborations.
+I express my sincere gratitude to Google, the Honeynet organization, and my mentor, Krzysztof Zając, for the invaluable opportunity to contribute to the Artemis project. Krzysztof helped me throughout the coding period, and solved any doubts that I had. he was very supportive and understanding till the end, His ability to provide clear and insightful feedback while fostering a collaborative and supportive environment greatly enhances my learning experience. I look forward to the possibility of future collaborations and continued contributing to the project.
