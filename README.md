@@ -76,7 +76,7 @@ My mentor, [Krzysztof Zając](https://kazet.cc), played a crucial role in this p
 
 This iterative methodology not only accelerated my development process but also enhanced my problem-solving skills. It encouraged a more flexible and adaptive approach to coding, which proved especially beneficial when tackling the diverse challenges presented by the Artemis project.
 
-Building upon this first lesson, I discovered another crucial principle:
+Building upon this lesson, I discovered another crucial principle:
 
 > There are high chances that what you're trying to do is already out there, if not completely, then at least partially. The Internet is your oyster.
 
