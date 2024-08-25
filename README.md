@@ -58,7 +58,7 @@ In addition to my proposed contributions, I identified and addressed several oth
 
 ## Future Work
 
-I will address the domain validation function in our tests, update the Karton repository to enhance UI/UX coherence, and continue debugging Artemis for improved compatibility with non-x86 machines. My summer work on Artemis was incredibly fulfilling, and I remain committed to contributing to the project.
+I will address the domain validation function in our tests, update the Karton Dashboard that serves the binds to enhance UI/UX coherence, and continue debugging Artemis for improved compatibility with non-x86 machines. My summer work on Artemis was incredibly fulfilling, and I remain committed to contributing to the project.
 
 ## Challenges and Learnings
 
