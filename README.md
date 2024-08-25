@@ -39,18 +39,25 @@ During Google Summer of Code, I made several significant contributions that are 
 
 - [X] **Subdomain Enumeration Module**: Developed a robust subdomain enumeration module that substantially enhances Artemis's ability to uncover potential vulnerabilities related to undiscovered subdomains, thereby improving the comprehensiveness of the security assessments. This module is now a critical component in real-world scans, directly contributing to the identification and mitigation of security risks (PR [#1054](https://github.com/CERT-Polska/Artemis/pull/1054)).
 - [X] **User Interface Revamp**: Recognized the outdated UI as a barrier to usability. Led a comprehensive redesign, resulting in a more intuitive and user-friendly interface that enhances the user experience. This improvement has been pivotal in facilitating more effective security assessments, making it easier for users to navigate and utilize the tool (PR [#1197](https://github.com/CERT-Polska/Artemis/pull/1197)).
+  
+  <video controls>
+    <source src="ui_revamp.mov" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
 
 #### Code Under Review
 
-- [ ] **Domain Validation Function**: Noticed that Artemis lacked domain validation capabilities, so I developed a new function to validate IPs and domains more accurately, which is currently under review. This function aims to bolster the reliability and accuracy of Artemis's scan results (PR [#1146](https://github.com/CERT-Polska/Artemis/pull/1146)).
+- [ ] **Domain Validation Function**: Noticed that Artemis lacked domain validation capabilities, so I developed a new function to validate IPs and domains more accurately. This function checks the existence of queried domains on the web, ensuring that the scans are accurate and reliable, helping to prevent errors and improve the quality of the security assessments (PR [#1146](https://github.com/CERT-Polska/Artemis/pull/1146)).
 
 ### Contributions Beyond the Proposal
 
 In addition to my proposed contributions, I identified and addressed several other areas for improvement, demonstrating my proactive approach and commitment to the project:
 
 - [X] **Startup Process Optimization**: Identified slow startup times as a pain point for users. Streamlined the startup process, reducing initialization times and improving operational efficiency, leading to a faster, more reliable user experience (PR [#1195](https://github.com/CERT-Polska/Artemis/pull/1195)).
-- [X] **Routine Dependency Upgrades**: Identified that Artemis lacked up-to-date dependencies, which posed potential security and performance risks. To address this, I created a CI/CD pipeline that automates the regular upgrading of dependencies. This initiative ensures that Artemis consistently remains secure, robust, and aligned with the latest industry standards (PR [#1122](https://github.com/CERT-Polska/Artemis/pull/1122)).
-- [X] **Non-x86 Compatibility Improvement**: Identified compatibility issues with non-x86 architectures, limiting Artemis's usability across different hardware. Improved compatibility, expanding Artemis's deployment across a wider range of platforms (PR [#1021](https://github.com/CERT-Polska/Artemis/pull/1021)).
+  
+- [X] **Routine Dependency Upgrades**: Created a CI/CD pipeline that automates the regular upgrading of dependencies. This initiative ensures that Artemis consistently remains secure, robust, and aligned with the latest industry standards, protecting users from potential vulnerabilities (PR [#1122](https://github.com/CERT-Polska/Artemis/pull/1122)).
+  
+- [X] **Non-x86 Compatibility Improvement**: Improved compatibility with non-x86 architectures, expanding Artemis's usability across different hardware. This enhancement allows a wider range of users to benefit from the tool, making it more accessible (PR [#1021](https://github.com/CERT-Polska/Artemis/pull/1021)).
 
 ## Future Work
 
