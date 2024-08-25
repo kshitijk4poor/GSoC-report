@@ -61,6 +61,7 @@ In addition to my proposed contributions, I identified and addressed several oth
 I will address the domain validation function in our tests, update the Karton repository to enhance UI/UX coherence, and continue debugging Artemis for improved compatibility with non-x86 machines. My summer work on Artemis was incredibly fulfilling, and I remain committed to contributing to the project.
 
 ## Challenges and Learnings
+
 > **DISCLAIMER:** [notes to self, what worked for me might not work for you](https://slatestarcodex.com/2014/03/24/should-you-reverse-any-advice-you-hear/)
 
 Throughout my journey with the Artemis project, I encountered various challenges that significantly contributed to my growth as a developer. One of the most valuable lessons I learned was the importance of iterative development and embracing imperfection in the initial stages of implementation.
@@ -75,15 +76,11 @@ My mentor, [Krzysztof Zając](https://kazet.cc), played a crucial role in this p
 
 This iterative methodology not only accelerated my development process but also enhanced my problem-solving skills. It encouraged a more flexible and adaptive approach to coding, which proved especially beneficial when tackling the diverse challenges presented by the Artemis project.
 
-Moving forward, I plan to continue applying this principle, balancing the pursuit of perfection with the pragmatism of incremental improvement. This experience has reinforced the idea that progress often emerges from imperfect beginnings, and that continuous iteration is key to achieving high-quality, functional code.
-
-Another crucial lesson I learned during my GSoC experience was the importance of leveraging existing resources and solutions:
+Building upon this first lesson, I discovered another crucial principle:
 
 > There are high chances that what you're trying to do is already out there, if not completely, then at least partially. The Internet is your oyster.
 
 This realization helped me overcome the common pitfall of reinventing the wheel. I learned to balance my desire for original implementation with the practicality of using existing solutions. This approach not only saved time but also exposed me to industry-standard practices and well-tested code.
-
-It's important to note that while implementing things from scratch can be an excellent learning experience, during my time at GSoC, I often had to make strategic decisions to prioritize speed and efficiency. This trade-off between deep, ground-up learning and rapid, effective development was a valuable lesson in project management and pragmatic coding.
 
 By embracing this mindset, I was able to:
 
@@ -91,7 +88,11 @@ By embracing this mindset, I was able to:
 2. Focus more energy on the unique aspects of Artemis that truly required custom solutions.
 3. Gain exposure to a wider range of coding practices and architectural designs.
 
-Moving forward, I plan to continue striking a balance between creating original solutions and leveraging existing resources. This approach will allow me to contribute more effectively to projects while continuing to expand my skills and understanding of software development.
+It's important to note that while implementing things from scratch can be an excellent learning experience, during my time at GSoC, I often had to make strategic decisions to prioritize speed and efficiency. This trade-off between deep, ground-up learning and rapid, effective development was a valuable lesson in project management and pragmatic coding.
+
+These principles of iterative development, writing clean code, and strategic use of existing solutions complement each other well. The former encourages experimentation and continuous improvement, while the latter prevents unnecessary reinvention and promotes efficiency. Together, they form a powerful approach to tackling complex software development challenges.
+
+Moving forward, I plan to continue applying these principles, balancing the pursuit of perfection with the pragmatism of incremental improvement and leveraging existing resources. This experience has reinforced the idea that progress often emerges from imperfect beginnings, and that continuous iteration, combined with strategic use of existing solutions, is key to achieving high-quality, functional code.
 
 ## Acknowledgements
 
