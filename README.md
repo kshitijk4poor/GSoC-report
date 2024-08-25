@@ -38,13 +38,13 @@ Before the commencement of Google Summer of Code, I laid the groundwork for my i
 During Google Summer of Code, I made several significant contributions that are now integral to Artemis and actively used in real scans at CERT Polska, enhancing the security of the Internet:
 
 - [X] **Subdomain Enumeration Module**: Developed a robust subdomain enumeration module that substantially enhances Artemis's ability to uncover potential vulnerabilities related to undiscovered subdomains, thereby improving the comprehensiveness of the security assessments. This module is now a critical component in real-world scans, directly contributing to the identification and mitigation of security risks (PR [#1054](https://github.com/CERT-Polska/Artemis/pull/1054)).
-- [X] **User Interface Revamp](https://youtu.be/fuRQHZuUOsw)**: Recognized the outdated UI as a barrier to usability. Led a comprehensive redesign, resulting in a more intuitive and user-friendly interface that enhances the user experience. This improvement has been pivotal in facilitating more effective security assessments, making it easier for users to navigate and utilize the tool (PR [#1197](https://github.com/CERT-Polska/Artemis/pull/1197)).
+- [X] **User Interface Revamp](https://youtu.be/fuRQHZuUOsw)**: Recognized the outdated UI as a barrier to usability. Improved the design to create a more intuitive and user-friendly interface that enhances the user experience. This improvement has been pivotal in facilitating more effective security assessments, making it easier for users to navigate and utilize the tool (PR [#1197](https://github.com/CERT-Polska/Artemis/pull/1197)).
 
 [![Watch the video](https://img.youtube.com/vi/fuRQHZuUOsw/0.jpg)](https://youtu.be/fuRQHZuUOsw)
   
 #### Code Under Review
 
-- [ ] **Domain Validation Function**: Noticed that Artemis lacked domain validation capabilities, so I developed a new function to validate IPs and domains more accurately. This function checks the existence of queried domains on the web, ensuring that the scans are accurate and reliable, helping to prevent errors and improve the quality of the security assessments (PR [#1146](https://github.com/CERT-Polska/Artemis/pull/1146)).
+- [ ] **Domain Validation Function**: Noticed that Artemis lacked domain validation capabilities, so I developed a new function to validate IPs and domains more accurately. This function checks the existence of domains on the web, ensuring that the scans are accurate and reliable by verifying if the domains are active and reachable, helping to prevent errors and improve the quality of the security assessments (PR [#1146](https://github.com/CERT-Polska/Artemis/pull/1146)).
 
 ### Contributions Beyond the Proposal
 
