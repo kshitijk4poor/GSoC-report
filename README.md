@@ -56,6 +56,9 @@ In addition to my proposed contributions, I identified and addressed several oth
 
 I will address the domain validation function in our tests, update the Karton repository to enhance UI/UX coherence, and continue debugging Artemis for improved compatibility with non-x86 machines. My summer work on Artemis was incredibly fulfilling and I remain committed to contributing to the project.
 
+## Challenges and Learnings
+
+
 ## Acknowledgements
 
 I express my sincere gratitude to Google, the Honeynet organization, and my mentor, Krzysztof Zając, for the invaluable opportunity to contribute to the Artemis project. Krzysztof helped me throughout the coding period, and solved any doubts that I had. he was very supportive and understanding till the end, His ability to provide clear and insightful feedback while fostering a collaborative and supportive environment greatly enhances my learning experience. I look forward to the possibility of future collaborations and continued contributing to the project.
