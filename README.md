@@ -18,7 +18,7 @@
 
 ## Summary
 
-[Artemis](https://github.com/CERT-Polska/Artemis) is a state-of-the-art modular vulnerability scanner developed by CERT Polska. As the cornerstone of CERT PL's scanning activities, Artemis performs comprehensive security assessments across various websites, producing actionable reports that are directly communicated to organizations for remediation.
+[Artemis](https://github.com/CERT-Polska/Artemis) is a state-of-the-art modular vulnerability scanner developed by CERT Polska. As the cornerstone of CERT PL's scanning activities, Artemis performs comprehensive security assessments across various websites, producing actionable reports communicated directly to organizations for remediation.
 
 The primary objective of my project was to significantly enhance the functionality and user experience of Artemis. This was achieved by developing advanced modules for subdomain enumeration and IP/domain validation, coupled with a thorough modernization of the user interface. These improvements not only expand Artemis's scanning capabilities but also enhance its operational efficiency and user-friendliness.
 
@@ -35,7 +35,7 @@ Before the commencement of Google Summer of Code, I laid the groundwork for my i
 
 #### Merged Code
 
-During Google Summer of Code, I made several significant contributions that are now integral to Artemis and actively used in real scans at CERT Polska, enhancing the security of the Internet:
+During Google Summer of Code, I made several significant contributions that are now integral to Artemis and actively used in real scans at CERT Polska, enhancing Internet security:
 
 - [X] **Subdomain Enumeration Module**: Developed a robust subdomain enumeration module that substantially enhances Artemis's ability to uncover potential vulnerabilities related to undiscovered subdomains, thereby improving the comprehensiveness of the security assessments. This module is now a critical component in real-world scans, directly contributing to the identification and mitigation of security risks (PR [#1054](https://github.com/CERT-Polska/Artemis/pull/1054)).
 - [X] **User Interface Revamp**: Recognized the outdated UI as a barrier to usability. Improved the design to create a more intuitive and user-friendly interface that enhances the user experience. This improvement has been pivotal in facilitating more effective security assessments, making it easier for users to navigate and utilize the tool (PR [#1197](https://github.com/CERT-Polska/Artemis/pull/1197)).
@@ -48,7 +48,7 @@ During Google Summer of Code, I made several significant contributions that are 
 
 ### Contributions Beyond the Proposal
 
-In addition to my proposed contributions, I identified and addressed several other areas for improvement, demonstrating my proactive approach and commitment to the project:
+In addition to my proposed contributions, I identified and addressed several other areas for improvement:
 
 - [X] **Startup Process Optimization**: Identified slow startup times as a pain point for users. Streamlined the startup process, reducing initialization times and improving operational efficiency, leading to a faster, more reliable user experience (PR [#1195](https://github.com/CERT-Polska/Artemis/pull/1195)).
   
@@ -58,7 +58,7 @@ In addition to my proposed contributions, I identified and addressed several oth
 
 ## Future Work
 
-I will address the domain validation function in our tests, update the Karton Dashboard that serves the binds to enhance UI/UX coherence, and continue debugging Artemis for improved compatibility with non-x86 machines. My summer work on Artemis was incredibly fulfilling, and I remain committed to contributing to the project.
+I will address the domain validation function in our tests, update the Karton Dashboard for enhanced UI/UX coherence, and continue debugging Artemis for improved compatibility with non-x86 machines. My summer work on Artemis was incredibly fulfilling, and I remain committed to contributing to the project.
 
 ## Challenges and Learnings
 
@@ -72,7 +72,7 @@ A key insight that proved instrumental in my progress was:
 
 This approach taught me the value of starting with a basic implementation, even if flawed, and progressively refining it. By adopting this mindset, I was able to overcome analysis paralysis and make tangible progress on complex features. It allowed me to gather feedback earlier, identify issues more quickly, and ultimately arrive at more robust solutions.
 
-My mentor, [Krzysztof Zając](https://kazet.cc), played a crucial role in this process. His guidance and support helped me navigate challenges and encouraged me to embrace iterative development. He provided constructive feedback that allowed me to refine my work effectively, reinforcing the importance of continuous improvement.
+My mentor, [Krzysztof Zając](https://kazet.cc), played a crucial role in this process. His guidance and support helped me navigate challenges and encouraged me to embrace iterative development. He provided constructive feedback that allowed me to refine my work effectively.
 
 This iterative methodology not only accelerated my development process but also enhanced my problem-solving skills. It encouraged a more flexible and adaptive approach to coding, which proved especially beneficial when tackling the diverse challenges presented by the Artemis project.
 
@@ -96,4 +96,4 @@ Moving forward, I plan to continue applying these principles, balancing the purs
 
 ## Acknowledgements
 
-I express my sincere gratitude to Google, the Honeynet organization, and my mentor, Krzysztof Zając, for the invaluable opportunity to contribute to the Artemis project. Krzysztof helped me throughout the coding period and resolved any doubts that I had. He was very supportive and understanding until the end. His ability to provide clear and insightful feedback while fostering a collaborative and supportive environment greatly enhanced my learning experience. I look forward to the possibility of future collaborations and continued contributions to the project.
+I express my sincere gratitude to Google, the Honeynet organization, and my mentor, Krzysztof Zając, for the invaluable opportunity to contribute to the Artemis project. Krzysztof helped me throughout the coding period and resolved any doubts that I had. His ability to provide clear and insightful feedback while fostering a collaborative and supportive environment greatly enhanced my learning experience. He was very supportive and understanding until the end. I look forward to the possibility of future collaborations and continued contributions to the project.
