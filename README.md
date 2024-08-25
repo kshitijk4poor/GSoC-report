@@ -40,10 +40,9 @@ During Google Summer of Code, I made several significant contributions that are 
 - [X] **Subdomain Enumeration Module**: Developed a robust subdomain enumeration module that substantially enhances Artemis's ability to uncover potential vulnerabilities related to undiscovered subdomains, thereby improving the comprehensiveness of the security assessments. This module is now a critical component in real-world scans, directly contributing to the identification and mitigation of security risks (PR [#1054](https://github.com/CERT-Polska/Artemis/pull/1054)).
 - [X] **User Interface Revamp**: Recognized the outdated UI as a barrier to usability. Led a comprehensive redesign, resulting in a more intuitive and user-friendly interface that enhances the user experience. This improvement has been pivotal in facilitating more effective security assessments, making it easier for users to navigate and utilize the tool (PR [#1197](https://github.com/CERT-Polska/Artemis/pull/1197)).
   
-  <video controls>
-    <source src="ui_revamp.mov" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
+  <p align="center">
+    <iframe width="560" height="315" src="https://youtu.be/fuRQHZuUOsw" frameborder="0" allowfullscreen></iframe>
+  </p>
 
 #### Code Under Review
 
