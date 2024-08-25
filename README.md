@@ -61,6 +61,7 @@ In addition to my proposed contributions, I identified and addressed several oth
 I will address the domain validation function in our tests, update the Karton repository to enhance UI/UX coherence, and continue debugging Artemis for improved compatibility with non-x86 machines. My summer work on Artemis was incredibly fulfilling, and I remain committed to contributing to the project.
 
 ## Challenges and Learnings
+> **DISCLAIMER:** [notes to self, what worked for me might not work for you](https://slatestarcodex.com/2014/03/24/should-you-reverse-any-advice-you-hear/)
 
 Throughout my journey with the Artemis project, I encountered various challenges that significantly contributed to my growth as a developer. One of the most valuable lessons I learned was the importance of iterative development and embracing imperfection in the initial stages of implementation.
 
@@ -69,6 +70,8 @@ A key insight that proved instrumental in my progress was:
 > Don't be afraid to implement an imperfect solution; iterate over it until it works.
 
 This approach taught me the value of starting with a basic implementation, even if flawed, and progressively refining it. By adopting this mindset, I was able to overcome analysis paralysis and make tangible progress on complex features. It allowed me to gather feedback earlier, identify issues more quickly, and ultimately arrive at more robust solutions.
+
+My mentor, [Krzysztof Zając](https://kazet.cc), played a crucial role in this process. His guidance and support helped me navigate challenges and encouraged me to embrace iterative development. He provided constructive feedback that allowed me to refine my work effectively, reinforcing the importance of continuous improvement.
 
 This iterative methodology not only accelerated my development process but also enhanced my problem-solving skills. It encouraged a more flexible and adaptive approach to coding, which proved especially beneficial when tackling the diverse challenges presented by the Artemis project.
 
@@ -89,9 +92,6 @@ By embracing this mindset, I was able to:
 3. Gain exposure to a wider range of coding practices and architectural designs.
 
 Moving forward, I plan to continue striking a balance between creating original solutions and leveraging existing resources. This approach will allow me to contribute more effectively to projects while continuing to expand my skills and understanding of software development.
-
-
-
 
 ## Acknowledgements
 
