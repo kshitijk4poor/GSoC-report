@@ -20,7 +20,7 @@
 
 [Artemis](https://github.com/CERT-Polska/Artemis) is a state-of-the-art modular vulnerability scanner developed by CERT Polska. As the cornerstone of CERT PL's scanning activities, Artemis performs comprehensive security assessments across various websites, producing actionable reports communicated directly to organizations for remediation.
 
-The primary objective of my project was to significantly enhance the functionality and user experience of Artemis. This was achieved by developing advanced modules for subdomain enumeration and IP/domain validation, coupled with the modernization of user interface. These improvements not only expand Artemis's scanning capabilities but also enhance its operational efficiency and user-friendliness.
+The primary objective of my project was to significantly enhance the functionality and user experience of Artemis. This was achieved by developing advanced modules for subdomain enumeration and IP/domain validation, coupled with the modernization of the user interface. These improvements not only expand Artemis's scanning capabilities but also enhance its operational efficiency and user-friendliness.
 
 ## Contributions
 
