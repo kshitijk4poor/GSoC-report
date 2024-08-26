@@ -26,7 +26,7 @@ The primary objective of my project was to significantly enhance the functionali
 
 ### Pre-GSoC Contributions
 
-Before the commencement of Google Summer of Code, I laid the groundwork for my involvement in the Artemis project by addressing several critical issues:
+Before the commencement of Google Summer of Code, I laid the groundwork for my involvement in the Artemis project by addressing several issues:
 
 - [X] **Windows Troubleshooting**: Addressed compatibility issues that restricted Artemis's operation on Windows platforms. Developed and applied fixes, enabling seamless cross-platform functionality and expanding user accessibility (PR [#827](https://github.com/CERT-Polska/Artemis/pull/827)).
 - [X] **Favicon Serving**: Noticed a lack of favicon support, which diminished the user interface quality. Implemented favicon serving, enhancing the visual appeal and professional look of Artemis's scan reports (PR [#864](https://github.com/CERT-Polska/Artemis/pull/864)).
