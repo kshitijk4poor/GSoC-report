@@ -44,7 +44,9 @@ During Google Summer of Code, I made several significant contributions that are 
   
 #### Code Under Review
 
-- [ ] **Domain Validation Function**: Noticed that Artemis lacked domain validation capabilities, so I developed a new function to validate IPs and domains more accurately. This function checks the existence of domains on the web, ensuring that the scans are accurate and reliable by verifying if the domains are active and reachable, helping to prevent errors and improve the quality of the security assessments (PR [#1146](https://github.com/CERT-Polska/Artemis/pull/1146)).
+- [x] **Domain Validation Function**: Noticed that Artemis lacked domain validation capabilities, so I developed a new function to validate IPs and domains more accurately. This function checks the existence of domains on the web, ensuring that the scans are accurate and reliable by verifying if the domains are active and reachable, helping to prevent errors and improve the quality of the security assessments (PR [#1146](https://github.com/CERT-Polska/Artemis/pull/1146)).
+
+EDIT: MERGED NOW
 
 ### Contributions Beyond the Proposal
 
